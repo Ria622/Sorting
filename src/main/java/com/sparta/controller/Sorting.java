@@ -1,7 +1,5 @@
-package com.sparta.bubble;
+package com.sparta.controller;
 
-import java.io.Externalizable;
-import java.io.Serializable;
 import java.util.ArrayList;
 
 public interface Sorting {

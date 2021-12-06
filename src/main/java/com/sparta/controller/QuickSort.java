@@ -1,4 +1,4 @@
-package com.sparta.bubble;
+package com.sparta.controller;
 
 import java.util.ArrayList;
 

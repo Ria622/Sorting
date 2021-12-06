@@ -1,11 +1,10 @@
 package com.sparta.bubblesort.test;
 
-import com.sparta.bubble.Bubblesort;
-import com.sparta.bubble.QuickSort;
+import com.sparta.controller.Bubblesort;
+import com.sparta.controller.QuickSort;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
@@ -56,12 +55,20 @@ public class BubbleTest {
 
     @Test
     public void TestForArrayListBubble(){
-        ArrayList<Integer> a = new ArrayList<>(List.of(72,95,33));
+        /*ArrayList<Integer> a = new ArrayList<>(List.of(72,95,33));
         Bubblesort bs = new Bubblesort();
         ArrayList<Integer> actual = bs.sort((ArrayList<Integer>) a);
         System.out.println(actual);
         ArrayList<Integer> expected = new ArrayList<>(List.of(33,72,95));
         assertEquals(expected, actual);
+
+         */
+        ArrayList<Integer> a = new ArrayList<>(List.of(74,93,11));
+        Bubblesort bs = new Bubblesort();
+        ArrayList<Integer> actual = bs.sort((ArrayList<Integer>) a);
+        System.out.println(actual);
+        ArrayList<Integer> expected = new ArrayList<>(List.of(11,74,93));
+        assertEquals(expected, actual );
 
     }
 }
