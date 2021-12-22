@@ -1,0 +1,297 @@
+FILE [INFO ] 2021-12-21 10:02:41,543 main  Quicksort  - Array of ints before: [I@6c0d7c83
+FILE [INFO ] 2021-12-21 10:02:41,567 main  Quicksort  - Array of ints sorted: [I@6c0d7c83Time take in nanoseconds:88813900
+FILE [INFO ] 2021-12-21 10:02:41,594 main My Sparta App - This is an info message:QuickSort Int Array completed in 8.88139E7 nanoseconds
+FILE [INFO ] 2021-12-21 10:03:01,687 main Bubblesort - ArrayList<Integer> before: [74, 93, 11]
+FILE [INFO ] 2021-12-21 10:03:01,706 main Bubblesort - Array of ints before: [I@4397ad89
+FILE [INFO ] 2021-12-21 10:03:01,726 main Bubblesort - Array of ints sorted: [I@4397ad89Time take in nanoseconds:957600
+FILE [INFO ] 2021-12-21 10:03:01,753 main My Sparta App - This is an info message:QuickSort Int Array completed in 957600.0 nanoseconds
+FILE [INFO ] 2021-12-21 10:03:01,754 main Bubblesort - ArrayList<Integer> sorted: [74, 93, 11]Time take in nanoseconds:137340100
+FILE [INFO ] 2021-12-21 10:03:01,755 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.373401E8 nanoseconds
+FILE [INFO ] 2021-12-21 10:03:02,440 main  Quicksort  - ArrayList<Integer> before: [74, 93, 11]
+FILE [INFO ] 2021-12-21 10:03:02,441 main  Quicksort  - ArrayList<Integer> sorted: [11, 74, 93]Time take in nanoseconds:1420300
+FILE [INFO ] 2021-12-21 10:03:02,442 main My Sparta App - This is an info message:QuickSort Int ArrayList completed in 1420300.0 nanoseconds
+FILE [INFO ] 2021-12-21 10:03:02,444 main  Quicksort  - Array of ints before: [I@16eccb2e
+FILE [INFO ] 2021-12-21 10:03:02,450 main  Quicksort  - Array of ints sorted: [I@16eccb2eTime take in nanoseconds:2429100
+FILE [INFO ] 2021-12-21 10:03:02,451 main My Sparta App - This is an info message:QuickSort Int Array completed in 2429100.0 nanoseconds
+FILE [INFO ] 2021-12-21 10:03:02,459 main Bubblesort - Array of ints before: [I@4671115f
+FILE [INFO ] 2021-12-21 10:03:02,459 main Bubblesort - Array of ints sorted: [I@4671115fTime take in nanoseconds:403500
+FILE [INFO ] 2021-12-21 10:03:02,460 main My Sparta App - This is an info message:QuickSort Int Array completed in 403500.0 nanoseconds
+FILE [INFO ] 2021-12-21 15:21:25,199 main Bubblesort - Array of ints before: [I@2525ff7e
+FILE [INFO ] 2021-12-21 15:21:25,232 main Bubblesort - Array of ints sorted: [I@2525ff7eTime take in nanoseconds:155522300
+FILE [INFO ] 2021-12-21 15:21:25,276 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.555223E8 nanoseconds
+FILE [WARN ] 2021-12-21 15:21:25,278 main My Sparta App - Error messageIncorrect input
+FILE [INFO ] 2021-12-21 15:22:50,039 main Bubblesort - Array of ints before: [I@e1de817
+FILE [INFO ] 2021-12-21 15:22:50,058 main Bubblesort - Array of ints sorted: [I@e1de817Time take in nanoseconds:16736000
+FILE [INFO ] 2021-12-21 15:22:50,067 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.6736E7 nanoseconds
+FILE [WARN ] 2021-12-21 15:22:50,068 main My Sparta App - Error messageIncorrect input
+FILE [INFO ] 2021-12-21 15:24:37,682 main Bubblesort - Array of ints before: [I@2e1d27ba
+FILE [INFO ] 2021-12-21 15:24:37,704 main Bubblesort - Array of ints sorted: [I@2e1d27baTime take in nanoseconds:17054000
+FILE [INFO ] 2021-12-21 15:24:37,713 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.7054E7 nanoseconds
+FILE [WARN ] 2021-12-21 15:24:37,715 main My Sparta App - Error messageIncorrect input
+FILE [INFO ] 2021-12-21 15:27:01,158 main Bubblesort - Array of ints before: [I@2e1d27ba
+FILE [INFO ] 2021-12-21 15:27:01,181 main Bubblesort - Array of ints sorted: [I@2e1d27baTime take in nanoseconds:17180100
+FILE [INFO ] 2021-12-21 15:27:01,191 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.71801E7 nanoseconds
+FILE [WARN ] 2021-12-21 15:27:01,192 main My Sparta App - Error messageIncorrect input
+FILE [INFO ] 2021-12-21 15:27:50,703 main Bubblesort - Array of ints before: [I@2e1d27ba
+FILE [INFO ] 2021-12-21 15:27:50,724 main Bubblesort - Array of ints sorted: [I@2e1d27baTime take in nanoseconds:16835200
+FILE [INFO ] 2021-12-21 15:27:50,734 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.68352E7 nanoseconds
+FILE [WARN ] 2021-12-21 15:27:50,735 main My Sparta App - Error messageIncorrect input
+FILE [INFO ] 2021-12-21 15:30:06,037 main Bubblesort - Array of ints before: [I@2e1d27ba
+FILE [INFO ] 2021-12-21 15:30:06,056 main Bubblesort - Array of ints sorted: [I@2e1d27baTime take in nanoseconds:17139500
+FILE [INFO ] 2021-12-21 15:30:06,064 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.71395E7 nanoseconds
+FILE [WARN ] 2021-12-21 15:30:06,065 main My Sparta App - Error messageIncorrect input
+FILE [INFO ] 2021-12-21 15:30:49,410 main Bubblesort - Array of ints before: [I@306cf3ea
+FILE [INFO ] 2021-12-21 15:30:49,431 main Bubblesort - Array of ints sorted: [I@306cf3eaTime take in nanoseconds:16383000
+FILE [INFO ] 2021-12-21 15:30:49,439 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.6383E7 nanoseconds
+FILE [WARN ] 2021-12-21 15:30:49,440 main My Sparta App - Error messageIncorrect input
+FILE [INFO ] 2021-12-21 15:32:13,108 main Bubblesort - Array of ints before: [I@2e1d27ba
+FILE [INFO ] 2021-12-21 15:32:13,127 main Bubblesort - Array of ints sorted: [I@2e1d27baTime take in nanoseconds:18471800
+FILE [INFO ] 2021-12-21 15:32:13,136 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.84718E7 nanoseconds
+FILE [WARN ] 2021-12-21 15:32:13,137 main My Sparta App - Error messageIncorrect input
+FILE [INFO ] 2021-12-21 15:35:09,935 main Bubblesort - Array of ints before: [I@152aa092
+FILE [INFO ] 2021-12-21 15:35:09,955 main Bubblesort - Array of ints sorted: [I@152aa092Time take in nanoseconds:17629500
+FILE [INFO ] 2021-12-21 15:35:09,965 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.76295E7 nanoseconds
+FILE [WARN ] 2021-12-21 15:35:09,966 main My Sparta App - Error messageIncorrect input
+FILE [INFO ] 2021-12-21 15:43:10,897 main Bubblesort - Array of ints before: [I@306cf3ea
+FILE [INFO ] 2021-12-21 15:43:10,920 main Bubblesort - Array of ints sorted: [I@306cf3eaTime take in nanoseconds:21236100
+FILE [INFO ] 2021-12-21 15:43:10,937 main My Sparta App - This is an info message:QuickSort Int Array completed in 2.12361E7 nanoseconds
+FILE [WARN ] 2021-12-21 15:43:10,938 main My Sparta App - Error messageIncorrect input
+FILE [INFO ] 2021-12-21 15:44:28,814 main Bubblesort - Array of ints before: [I@2e1d27ba
+FILE [INFO ] 2021-12-21 15:44:28,834 main Bubblesort - Array of ints sorted: [I@2e1d27baTime take in nanoseconds:21203600
+FILE [INFO ] 2021-12-21 15:44:28,846 main My Sparta App - This is an info message:QuickSort Int Array completed in 2.12036E7 nanoseconds
+FILE [WARN ] 2021-12-21 15:44:28,847 main My Sparta App - Error messageIncorrect input
+FILE [INFO ] 2021-12-21 18:47:45,512 main Bubblesort - Array of ints before: [I@3541cb24
+FILE [INFO ] 2021-12-21 18:47:45,542 main Bubblesort - Array of ints sorted: [I@3541cb24Time take in nanoseconds:93933500
+FILE [INFO ] 2021-12-21 18:47:45,572 main My Sparta App - This is an info message:QuickSort Int Array completed in 9.39335E7 nanoseconds
+FILE [INFO ] 2021-12-21 18:52:33,680 main Bubblesort - Array of ints before: [I@2e1d27ba
+FILE [INFO ] 2021-12-21 18:52:33,698 main Bubblesort - Array of ints sorted: [I@2e1d27baTime take in nanoseconds:17555500
+FILE [INFO ] 2021-12-21 18:52:33,706 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.75555E7 nanoseconds
+FILE [INFO ] 2021-12-21 18:53:42,546 main Bubblesort - Array of ints before: [I@2e1d27ba
+FILE [INFO ] 2021-12-21 18:53:42,565 main Bubblesort - Array of ints sorted: [I@2e1d27baTime take in nanoseconds:15461200
+FILE [INFO ] 2021-12-21 18:53:42,572 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.54612E7 nanoseconds
+FILE [INFO ] 2021-12-21 18:54:15,924 main Bubblesort - Array of ints before: [I@2e1d27ba
+FILE [INFO ] 2021-12-21 18:54:15,939 main Bubblesort - Array of ints sorted: [I@2e1d27baTime take in nanoseconds:15483700
+FILE [INFO ] 2021-12-21 18:54:15,948 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.54837E7 nanoseconds
+FILE [INFO ] 2021-12-21 18:56:47,972 main Bubblesort - Array of ints before: [I@2e1d27ba
+FILE [INFO ] 2021-12-21 18:56:47,989 main Bubblesort - Array of ints sorted: [I@2e1d27baTime take in nanoseconds:14490800
+FILE [INFO ] 2021-12-21 18:56:47,998 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.44908E7 nanoseconds
+FILE [INFO ] 2021-12-21 21:13:13,045 main  Quicksort  - ArrayList<Integer> before: [63, 4, 65, 65, 33]
+FILE [INFO ] 2021-12-21 21:13:13,083 main  Quicksort  - ArrayList<Integer> sorted: [4, 33, 63, 65, 65]Time take in nanoseconds:111230700
+FILE [INFO ] 2021-12-21 21:13:13,111 main My Sparta App - This is an info message:QuickSort Int ArrayList completed in 1.112307E8 nanoseconds
+FILE [WARN ] 2021-12-21 21:13:13,111 main My Sparta App - Error messageIncorrect input
+FILE [INFO ] 2021-12-21 21:15:30,420 main  Quicksort  - ArrayList<Integer> before: [16, 98, 30, 13, 98]
+FILE [INFO ] 2021-12-21 21:15:30,437 main  Quicksort  - ArrayList<Integer> sorted: [13, 16, 30, 98, 98]Time take in nanoseconds:17325900
+FILE [INFO ] 2021-12-21 21:15:30,445 main My Sparta App - This is an info message:QuickSort Int ArrayList completed in 1.73259E7 nanoseconds
+FILE [WARN ] 2021-12-21 21:15:30,448 main My Sparta App - Error messageIncorrect input
+FILE [WARN ] 2021-12-21 21:16:29,182 main My Sparta App - Error messageIncorrect input
+FILE [INFO ] 2021-12-21 21:19:07,997 main  Quicksort  - ArrayList<Integer> before: [62, 1, 86, 55, 49]
+FILE [INFO ] 2021-12-21 21:19:08,013 main  Quicksort  - ArrayList<Integer> sorted: [1, 49, 55, 62, 86]Time take in nanoseconds:17658000
+FILE [INFO ] 2021-12-21 21:19:08,021 main My Sparta App - This is an info message:QuickSort Int ArrayList completed in 1.7658E7 nanoseconds
+FILE [WARN ] 2021-12-21 21:19:08,021 main My Sparta App - Error messageIncorrect input
+FILE [INFO ] 2021-12-21 22:04:50,670 main Bubblesort - Array of ints before: [I@306cf3ea
+FILE [INFO ] 2021-12-21 22:04:50,686 main Bubblesort - Array of ints sorted: [I@306cf3eaTime take in nanoseconds:15890300
+FILE [INFO ] 2021-12-21 22:04:50,698 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.58903E7 nanoseconds
+FILE [INFO ] 2021-12-21 22:05:06,436 main Bubblesort - Array of ints before: [I@2e1d27ba
+FILE [INFO ] 2021-12-21 22:05:06,452 main Bubblesort - Array of ints sorted: [I@2e1d27baTime take in nanoseconds:15449700
+FILE [INFO ] 2021-12-21 22:05:06,459 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.54497E7 nanoseconds
+FILE [INFO ] 2021-12-21 22:05:23,103 main  Quicksort  - ArrayList<Integer> before: [51, 28, 34, 65, 38]
+FILE [INFO ] 2021-12-21 22:05:23,119 main  Quicksort  - ArrayList<Integer> sorted: [28, 34, 38, 51, 65]Time take in nanoseconds:17025100
+FILE [INFO ] 2021-12-21 22:05:23,127 main My Sparta App - This is an info message:QuickSort Int ArrayList completed in 1.70251E7 nanoseconds
+FILE [INFO ] 2021-12-21 22:07:30,759 main  Quicksort  - ArrayList<Integer> before: [49, 64, 31, 46, 81]
+FILE [INFO ] 2021-12-21 22:07:30,775 main  Quicksort  - ArrayList<Integer> sorted: [31, 46, 49, 64, 81]Time take in nanoseconds:18259000
+FILE [INFO ] 2021-12-21 22:07:30,787 main My Sparta App - This is an info message:QuickSort Int ArrayList completed in 1.8259E7 nanoseconds
+FILE [INFO ] 2021-12-21 22:07:48,377 main Binary Tree Sort  - ArrayList<Integer> before: [67, 3, 11, 66, 40]
+FILE [INFO ] 2021-12-21 22:07:48,377 main Binary Tree Sort  - ArrayList<Integer> sorted: [67, 3, 11, 66, 40]Time take in nanoseconds:785900
+FILE [INFO ] 2021-12-21 22:07:48,377 main My Sparta App - This is an info message:Binary Tree Sort Int ArrayList completed in 785900.0 nanoseconds
+FILE [INFO ] 2021-12-21 22:49:20,133 main Bubblesort - Array of ints before: [I@306cf3ea
+FILE [INFO ] 2021-12-21 22:49:20,152 main Bubblesort - Array of ints sorted: [I@306cf3eaTime take in nanoseconds:17931800
+FILE [INFO ] 2021-12-21 22:49:20,161 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.79318E7 nanoseconds
+FILE [INFO ] 2021-12-21 22:51:26,818 main  Quicksort  - Array of ints before: [I@378542de
+FILE [INFO ] 2021-12-21 22:51:26,819 main  Quicksort  - [I@378542de
+FILE [INFO ] 2021-12-21 22:51:26,820 main  Quicksort  - Array of ints sorted: [I@378542deTime take in nanoseconds: 2491000
+FILE [INFO ] 2021-12-21 22:51:26,820 main My Sparta App - This is an info message: QuickSort Int Array  completed in 2491000.0 nanoseconds
+FILE [INFO ] 2021-12-21 22:51:30,399 main Binary Tree Sort  - Array of ints before: [I@c333c60
+FILE [INFO ] 2021-12-21 22:51:30,400 main Binary Tree Sort  - Array of ints sorted: [I@c333c60Time take in nanoseconds:1169200
+FILE [INFO ] 2021-12-21 22:51:30,400 main My Sparta App - This is an info message:Binary Tree Sort Int Array completed in 1169200.0 nanoseconds
+FILE [INFO ] 2021-12-21 23:16:54,102 main  Quicksort  - ArrayList<Integer> before: [82, 56, 87, 6, 66]
+FILE [INFO ] 2021-12-21 23:16:54,117 main  Quicksort  - ArrayList<Integer> sorted: [6, 56, 66, 82, 87]Time take in nanoseconds:15941000
+FILE [INFO ] 2021-12-21 23:16:54,127 main My Sparta App - This is an info message:QuickSort Int ArrayList completed in 1.5941E7 nanoseconds
+FILE [INFO ] 2021-12-21 23:17:10,858 main  Quicksort  - ArrayList<Integer> before: [11, 22, 24, 90, 27]
+FILE [INFO ] 2021-12-21 23:17:10,875 main  Quicksort  - ArrayList<Integer> sorted: [11, 22, 24, 27, 90]Time take in nanoseconds:17239200
+FILE [INFO ] 2021-12-21 23:17:10,883 main My Sparta App - This is an info message:QuickSort Int ArrayList completed in 1.72392E7 nanoseconds
+FILE [INFO ] 2021-12-22 00:07:45,019 main Bubblesort - Array of ints before: [I@2e1d27ba
+FILE [INFO ] 2021-12-22 00:07:45,026 main Bubblesort - [I@2e1d27ba
+FILE [INFO ] 2021-12-22 00:07:45,046 main Bubblesort - Array of ints sorted: [I@2e1d27baTime take in nanoseconds:16901100
+FILE [INFO ] 2021-12-22 00:07:45,058 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.69011E7 nanoseconds
+FILE [INFO ] 2021-12-22 00:07:45,058 main Bubblesort - [I@2e1d27ba
+FILE [INFO ] 2021-12-22 00:09:00,803 main Bubblesort - Array of ints before: [I@2e1d27ba
+FILE [INFO ] 2021-12-22 00:09:00,811 main Bubblesort - [I@2e1d27ba
+FILE [INFO ] 2021-12-22 00:09:00,819 main Bubblesort - Array of ints sorted: [I@2e1d27baTime take in nanoseconds:17131000
+FILE [INFO ] 2021-12-22 00:09:00,827 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.7131E7 nanoseconds
+FILE [INFO ] 2021-12-22 00:09:00,827 main Bubblesort - [I@2e1d27ba
+FILE [INFO ] 2021-12-22 00:09:36,537 main Bubblesort - Array of ints before: [I@2e1d27ba
+FILE [INFO ] 2021-12-22 00:09:36,545 main Bubblesort - [I@2e1d27ba
+FILE [INFO ] 2021-12-22 00:09:36,557 main Bubblesort - Array of ints sorted: [I@2e1d27baTime take in nanoseconds:16276500
+FILE [INFO ] 2021-12-22 00:09:36,565 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.62765E7 nanoseconds
+FILE [INFO ] 2021-12-22 00:09:36,565 main Bubblesort - [20, 30, 32, 33, 65]
+FILE [INFO ] 2021-12-22 00:10:12,390 main Bubblesort - Array of ints before: [I@2e1d27ba
+FILE [INFO ] 2021-12-22 00:10:12,400 main Bubblesort - [I@2e1d27ba
+FILE [INFO ] 2021-12-22 00:10:12,410 main Bubblesort - Array of ints sorted: [1, 20, 50, 69, 95]Time take in nanoseconds:18931600
+FILE [INFO ] 2021-12-22 00:10:12,418 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.89316E7 nanoseconds
+FILE [INFO ] 2021-12-22 00:10:12,418 main Bubblesort - [1, 20, 50, 69, 95]
+FILE [INFO ] 2021-12-22 00:10:49,202 main Bubblesort - Array of ints before: [23, 11, 7, 64, 66]
+FILE [INFO ] 2021-12-22 00:10:49,214 main Bubblesort - [I@3a6bb9bf
+FILE [INFO ] 2021-12-22 00:10:49,222 main Bubblesort - Array of ints sorted: [7, 11, 23, 64, 66]Time take in nanoseconds:17391800
+FILE [INFO ] 2021-12-22 00:10:49,230 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.73918E7 nanoseconds
+FILE [INFO ] 2021-12-22 00:10:49,234 main Bubblesort - [7, 11, 23, 64, 66]
+FILE [INFO ] 2021-12-22 00:13:17,401 main Bubblesort - Array of ints before: [92, 42, 20, 25, 82]
+FILE [INFO ] 2021-12-22 00:13:17,420 main Bubblesort - Array of ints sorted: [20, 25, 42, 82, 92]Time take in nanoseconds:17130300
+FILE [INFO ] 2021-12-22 00:13:17,428 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.71303E7 nanoseconds
+FILE [INFO ] 2021-12-22 00:13:17,428 main Bubblesort - [20, 25, 42, 82, 92]
+FILE [INFO ] 2021-12-22 00:15:39,681 main Bubblesort - Array of ints before: [21, 49, 9, 57, 33]
+FILE [INFO ] 2021-12-22 00:15:39,701 main Bubblesort - Array of ints sorted: [9, 21, 33, 49, 57]Time take in nanoseconds:17611500
+FILE [INFO ] 2021-12-22 00:15:39,709 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.76115E7 nanoseconds
+FILE [INFO ] 2021-12-22 00:15:39,709 main Bubblesort - [9, 21, 33, 49, 57]
+FILE [INFO ] 2021-12-22 00:16:37,033 main Bubblesort - Array of ints before: [23, 63, 47, 33, 46]
+FILE [INFO ] 2021-12-22 00:16:37,045 main Bubblesort - Array of ints sorted: [23, 33, 46, 47, 63]Time take in nanoseconds:11746300
+FILE [INFO ] 2021-12-22 00:16:37,049 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.17463E7 nanoseconds
+FILE [INFO ] 2021-12-22 00:16:37,049 main Bubblesort - [23, 33, 46, 47, 63]
+FILE [INFO ] 2021-12-22 00:17:18,061 main Bubblesort - Array of ints before: [61, 35, 2, 6, 64]
+FILE [INFO ] 2021-12-22 00:17:18,077 main Bubblesort - Array of ints sorted: [2, 6, 35, 61, 64]Time take in nanoseconds:13338100
+FILE [INFO ] 2021-12-22 00:17:18,077 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.33381E7 nanoseconds
+FILE [INFO ] 2021-12-22 00:17:18,077 main Bubblesort - [2, 6, 35, 61, 64]
+FILE [INFO ] 2021-12-22 00:17:33,720 main Bubblesort - Array of ints before: [2, 63, 10, 89, 80]
+FILE [INFO ] 2021-12-22 00:17:33,740 main Bubblesort - Array of ints sorted: [2, 10, 63, 80, 89]Time take in nanoseconds:18828900
+FILE [INFO ] 2021-12-22 00:17:33,748 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.88289E7 nanoseconds
+FILE [INFO ] 2021-12-22 00:17:33,748 main Bubblesort - [2, 10, 63, 80, 89]
+FILE [INFO ] 2021-12-22 00:17:46,762 main Bubblesort - Array of ints before: [91, 85, 95, 50, 43]
+FILE [INFO ] 2021-12-22 00:17:46,778 main Bubblesort - Array of ints sorted: [43, 50, 85, 91, 95]Time take in nanoseconds:16405300
+FILE [INFO ] 2021-12-22 00:17:46,790 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.64053E7 nanoseconds
+FILE [INFO ] 2021-12-22 00:17:46,790 main Bubblesort - [43, 50, 85, 91, 95]
+FILE [INFO ] 2021-12-22 00:19:20,797 main Bubblesort - Array of ints before: [56, 61, 45, 13, 35]
+FILE [INFO ] 2021-12-22 00:19:20,813 main Bubblesort - Array of ints sorted: [13, 35, 45, 56, 61] Time take in nanoseconds :17353100
+FILE [INFO ] 2021-12-22 00:19:20,825 main My Sparta App - This is an info message: QuickSort Int Array  completed in 1.73531E7 nanoseconds
+FILE [INFO ] 2021-12-22 00:19:20,825 main Bubblesort - [13, 35, 45, 56, 61]
+FILE [INFO ] 2021-12-22 00:56:57,524 main Bubblesort - Array of ints before: [88, 71, 97, 63, 82]
+FILE [INFO ] 2021-12-22 00:56:57,548 main Bubblesort - Array of ints sorted: [63, 71, 82, 88, 97] Time take in nanoseconds :109236300
+FILE [INFO ] 2021-12-22 00:56:57,570 main My Sparta App - This is an info message: QuickSort Int Array  completed in 1.092363E8 nanoseconds
+FILE [INFO ] 2021-12-22 00:56:57,571 main Bubblesort - [63, 71, 82, 88, 97]
+FILE [INFO ] 2021-12-22 00:59:50,436 main Bubblesort - Array of ints before: [24, 52, 0, 52, 94]
+FILE [INFO ] 2021-12-22 00:59:50,494 main Bubblesort - Array of ints sorted: [0, 24, 52, 52, 94] Time take in nanoseconds :182018900
+FILE [INFO ] 2021-12-22 00:59:50,512 main My Sparta App - This is an info message: QuickSort Int Array  completed in 1.820189E8 nanoseconds
+FILE [INFO ] 2021-12-22 00:59:50,513 main Bubblesort - [0, 24, 52, 52, 94]
+FILE [INFO ] 2021-12-22 01:01:13,833 main Bubblesort - Array of ints before: [49, 47, 58, 35, 37]
+FILE [INFO ] 2021-12-22 01:01:13,848 main Bubblesort - Array of ints sorted: [35, 37, 47, 49, 58] Time take in nanoseconds :13573800
+FILE [INFO ] 2021-12-22 01:01:13,861 main My Sparta App - This is an info message: QuickSort Int Array  completed in 1.35738E7 nanoseconds
+FILE [INFO ] 2021-12-22 01:01:13,861 main Bubblesort - [35, 37, 47, 49, 58]
+FILE [INFO ] 2021-12-22 01:04:44,788 main Bubblesort - Array of ints before: [45, 14, 5, 51, 97]
+FILE [INFO ] 2021-12-22 01:04:44,850 main Bubblesort - Array of ints sorted: [5, 14, 45, 51, 97] Time take in nanoseconds :260132900
+FILE [INFO ] 2021-12-22 01:04:44,894 main My Sparta App - This is an info message: QuickSort Int Array  completed in 2.601329E8 nanoseconds
+FILE [INFO ] 2021-12-22 01:04:44,894 main Bubblesort - [5, 14, 45, 51, 97]
+FILE [INFO ] 2021-12-22 01:06:06,597 main Bubblesort - ArrayList<Integer> before: [14, 48, 45, 23, 21]
+FILE [INFO ] 2021-12-22 01:06:06,638 main Bubblesort - ArrayList<Integer> sorted: [14, 21, 23, 45, 48] Time take in nanoseconds:17761000
+FILE [INFO ] 2021-12-22 01:06:06,712 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.7761E7 nanoseconds
+FILE [INFO ] 2021-12-22 01:09:04,231 main Bubblesort - ArrayList<Integer> before: [32, 46, 31, 96, 4]
+FILE [INFO ] 2021-12-22 01:09:04,258 main Bubblesort - ArrayList<Integer> sorted: [4, 31, 32, 46, 96] Time take in nanoseconds:15383900
+FILE [INFO ] 2021-12-22 01:09:04,266 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.53839E7 nanoseconds
+FILE [INFO ] 2021-12-22 01:09:10,063 main Bubblesort - Array of ints before: [54, 48, 44, 99, 3]
+FILE [INFO ] 2021-12-22 01:09:10,064 main Bubblesort - Array of ints sorted: [3, 44, 48, 54, 99] Time take in nanoseconds :782001
+FILE [INFO ] 2021-12-22 01:09:10,064 main My Sparta App - This is an info message: QuickSort Int Array  completed in 782001.0 nanoseconds
+FILE [INFO ] 2021-12-22 01:09:10,065 main Bubblesort - [3, 44, 48, 54, 99]
+FILE [INFO ] 2021-12-22 01:12:12,814 main Bubblesort - Array of ints before: [42, 55, 84, 22, 26]
+FILE [INFO ] 2021-12-22 01:12:12,844 main Bubblesort - Array of ints sorted: [22, 26, 42, 55, 84] Time take in nanoseconds :21884299
+FILE [INFO ] 2021-12-22 01:12:12,854 main My Sparta App - This is an info message: QuickSort Int Array  completed in 2.1884299E7 nanoseconds
+FILE [INFO ] 2021-12-22 01:12:12,855 main Bubblesort - [22, 26, 42, 55, 84]
+FILE [INFO ] 2021-12-22 01:12:12,856 main Bubblesort - ArrayList<Integer> before: [15, 71, 26, 17, 47]
+FILE [INFO ] 2021-12-22 01:12:12,857 main Bubblesort - ArrayList<Integer> sorted: [15, 17, 26, 47, 71] Time take in nanoseconds:628999
+FILE [INFO ] 2021-12-22 01:12:12,858 main My Sparta App - This is an info message:QuickSort Int Array completed in 628999.0 nanoseconds
+FILE [INFO ] 2021-12-22 01:16:25,198 main Bubblesort - Array of ints before: [39, 46, 63, 37, 22]
+FILE [INFO ] 2021-12-22 01:16:25,233 main Bubblesort - Array of ints sorted: [22, 37, 39, 46, 63] Time take in nanoseconds :51919400
+FILE [INFO ] 2021-12-22 01:16:25,260 main My Sparta App - This is an info message: QuickSort Int Array  completed in 5.19194E7 nanoseconds
+FILE [INFO ] 2021-12-22 01:16:25,262 main Bubblesort - [22, 37, 39, 46, 63]
+FILE [INFO ] 2021-12-22 01:16:25,262 main Bubblesort - ArrayList<Integer> before: [10, 3, 79, 13, 74]
+FILE [INFO ] 2021-12-22 01:16:25,262 main Bubblesort - ArrayList<Integer> sorted: [3, 10, 13, 74, 79] Time take in nanoseconds:1035900
+FILE [INFO ] 2021-12-22 01:16:25,262 main My Sparta App - This is an info message:QuickSort Int Array completed in 1035900.0 nanoseconds
+FILE [INFO ] 2021-12-22 01:16:25,268 main Binary Tree Sort  - Array of ints before: [I@140c9f39
+FILE [INFO ] 2021-12-22 01:16:25,272 main Binary Tree Sort  - Array of ints sorted: [I@140c9f39Time take in nanoseconds:5547901
+FILE [INFO ] 2021-12-22 01:16:25,272 main My Sparta App - This is an info message:Binary Tree Sort Int Array completed in 5547901.0 nanoseconds
+FILE [INFO ] 2021-12-22 01:19:26,615 main Bubblesort - Array of ints before: [30, 70, 53, 11, 8]
+FILE [INFO ] 2021-12-22 01:19:26,643 main Bubblesort - Array of ints sorted: [8, 11, 30, 53, 70] Time take in nanoseconds :18428600
+FILE [INFO ] 2021-12-22 01:19:26,657 main My Sparta App - This is an info message: QuickSort Int Array  completed in 1.84286E7 nanoseconds
+FILE [INFO ] 2021-12-22 01:19:26,657 main Bubblesort - [8, 11, 30, 53, 70]
+FILE [INFO ] 2021-12-22 01:19:26,660 main Bubblesort - ArrayList<Integer> before: [31, 82, 95, 35, 23]
+FILE [INFO ] 2021-12-22 01:19:26,660 main Bubblesort - ArrayList<Integer> sorted: [23, 31, 35, 82, 95] Time take in nanoseconds:569000
+FILE [INFO ] 2021-12-22 01:19:26,660 main My Sparta App - This is an info message:QuickSort Int Array completed in 569000.0 nanoseconds
+FILE [INFO ] 2021-12-22 01:19:26,663 main Binary Tree Sort  - Array of ints before: [I@140c9f39
+FILE [INFO ] 2021-12-22 01:19:26,671 main Binary Tree Sort  - Array of ints sorted: [I@140c9f39Time take in nanoseconds:7464800
+FILE [INFO ] 2021-12-22 01:19:26,672 main My Sparta App - This is an info message:Binary Tree Sort Int Array completed in 7464800.0 nanoseconds
+FILE [INFO ] 2021-12-22 01:23:08,027 main Bubblesort - Array of ints before: [16, 19, 64, 66, 27]
+FILE [INFO ] 2021-12-22 01:23:08,053 main Bubblesort - Array of ints sorted: [16, 19, 27, 64, 66] Time take in nanoseconds :19876200
+FILE [INFO ] 2021-12-22 01:23:08,071 main My Sparta App - This is an info message: QuickSort Int Array  completed in 1.98762E7 nanoseconds
+FILE [INFO ] 2021-12-22 01:23:08,072 main Bubblesort - [16, 19, 27, 64, 66]
+FILE [INFO ] 2021-12-22 01:23:08,072 main Bubblesort - ArrayList<Integer> before: [26, 58, 95, 62, 90]
+FILE [INFO ] 2021-12-22 01:23:08,073 main Bubblesort - ArrayList<Integer> sorted: [26, 58, 62, 90, 95] Time take in nanoseconds:646200
+FILE [INFO ] 2021-12-22 01:23:08,073 main My Sparta App - This is an info message:QuickSort Int Array completed in 646200.0 nanoseconds
+FILE [INFO ] 2021-12-22 01:23:08,075 main Binary Tree Sort  - Array of ints before: [I@140c9f39
+FILE [INFO ] 2021-12-22 01:23:08,081 main Binary Tree Sort  - Array of ints sorted: [I@140c9f39Time take in nanoseconds:9914000
+FILE [INFO ] 2021-12-22 01:23:08,081 main My Sparta App - This is an info message:Binary Tree Sort Int Array completed in 9914000.0 nanoseconds
+FILE [INFO ] 2021-12-22 01:23:41,298 main Bubblesort - Array of ints before: [87, 59, 33, 93, 74]
+FILE [INFO ] 2021-12-22 01:23:41,376 main Bubblesort - Array of ints sorted: [33, 59, 74, 87, 93] Time take in nanoseconds :15286000
+FILE [INFO ] 2021-12-22 01:23:41,388 main My Sparta App - This is an info message: QuickSort Int Array  completed in 1.5286E7 nanoseconds
+FILE [INFO ] 2021-12-22 01:23:41,389 main Bubblesort - [33, 59, 74, 87, 93]
+FILE [INFO ] 2021-12-22 01:23:41,390 main Bubblesort - ArrayList<Integer> before: [49, 59, 52, 80, 18]
+FILE [INFO ] 2021-12-22 01:23:41,391 main Bubblesort - ArrayList<Integer> sorted: [18, 49, 52, 59, 80] Time take in nanoseconds:560900
+FILE [INFO ] 2021-12-22 01:23:41,391 main My Sparta App - This is an info message:QuickSort Int Array completed in 560900.0 nanoseconds
+FILE [INFO ] 2021-12-22 01:23:41,392 main Binary Tree Sort  - Array of ints before: [I@140c9f39
+FILE [INFO ] 2021-12-22 01:23:41,429 main Binary Tree Sort  - Array of ints sorted: [I@140c9f39Time take in nanoseconds:37723600
+FILE [INFO ] 2021-12-22 01:23:41,431 main My Sparta App - This is an info message:Binary Tree Sort Int Array completed in 3.77236E7 nanoseconds
+FILE [INFO ] 2021-12-22 01:26:19,463 main Bubblesort - Array of ints before: [38, 87, 17, 93, 12]
+FILE [INFO ] 2021-12-22 01:26:19,493 main Bubblesort - Array of ints sorted: [12, 17, 38, 87, 93] Time take in nanoseconds :16817600
+FILE [INFO ] 2021-12-22 01:26:19,504 main My Sparta App - This is an info message: QuickSort Int Array  completed in 1.68176E7 nanoseconds
+FILE [INFO ] 2021-12-22 01:26:19,504 main Bubblesort - [12, 17, 38, 87, 93]
+FILE [INFO ] 2021-12-22 01:26:19,505 main Bubblesort - ArrayList<Integer> before: [66, 91, 1, 26, 27]
+FILE [INFO ] 2021-12-22 01:26:19,506 main Bubblesort - ArrayList<Integer> sorted: [1, 26, 27, 66, 91] Time take in nanoseconds:872200
+FILE [INFO ] 2021-12-22 01:26:19,506 main My Sparta App - This is an info message:QuickSort Int Array completed in 872200.0 nanoseconds
+FILE [INFO ] 2021-12-22 01:26:19,508 main Binary Tree Sort  - Array of ints before: [I@6b8ca3c8
+FILE [INFO ] 2021-12-22 01:26:19,511 main Binary Tree Sort  - Array of ints sorted: [I@6b8ca3c8Time take in nanoseconds:3930800
+FILE [INFO ] 2021-12-22 01:26:19,511 main My Sparta App - This is an info message:Binary Tree Sort Int Array completed in 3930800.0 nanoseconds
+FILE [INFO ] 2021-12-22 01:47:27,761 main  Quicksort  - Array of ints before: [I@1329eff
+FILE [INFO ] 2021-12-22 01:47:27,791 main  Quicksort  - [I@1329eff
+FILE [INFO ] 2021-12-22 01:47:27,801 main  Quicksort  - Array of ints sorted: [I@1329effTime take in nanoseconds: 98652701
+FILE [INFO ] 2021-12-22 01:47:27,809 main My Sparta App - This is an info message: QuickSort Int Array  completed in 9.8652701E7 nanoseconds
+FILE [INFO ] 2021-12-22 01:47:27,810 main  Quicksort  - ArrayList<Integer> before: [51, 67, 12, 81, 6]
+FILE [INFO ] 2021-12-22 01:47:27,811 main  Quicksort  - ArrayList<Integer> sorted: [6, 12, 51, 67, 81]Time take in nanoseconds:830000
+FILE [INFO ] 2021-12-22 01:47:27,812 main My Sparta App - This is an info message:QuickSort Int ArrayList completed in 830000.0 nanoseconds
+FILE [INFO ] 2021-12-22 01:47:27,816 main Binary Tree Sort  - Array of ints before: [I@34f7cfd9
+FILE [INFO ] 2021-12-22 01:47:27,819 main Binary Tree Sort  - Array of ints sorted: [I@34f7cfd9Time take in nanoseconds:3117100
+FILE [INFO ] 2021-12-22 01:47:27,819 main My Sparta App - This is an info message:Binary Tree Sort Int Array completed in 3117100.0 nanoseconds
+FILE [INFO ] 2021-12-22 01:47:27,819 main Binary Tree Sort  - ArrayList<Integer> before: [14, 31, 18, 69, 5]
+FILE [INFO ] 2021-12-22 01:47:27,824 main Binary Tree Sort  - ArrayList<Integer> sorted: [14, 31, 18, 69, 5]Time take in nanoseconds:3685101
+FILE [INFO ] 2021-12-22 01:47:27,824 main My Sparta App - This is an info message:Binary Tree Sort Int ArrayList completed in 3685101.0 nanoseconds
+FILE [INFO ] 2021-12-22 02:50:44,022 main Binary Tree Sort  - Array of ints before: [71, 0, 64, 56, 54]
+FILE [INFO ] 2021-12-22 02:57:42,056 main Binary Tree Sort  - Array of ints before: [13, 57, 54, 27, 79]
+FILE [INFO ] 2021-12-22 02:58:10,186 main Binary Tree Sort  - Array of ints before: [7, 89, 78, 8, 65]
+FILE [INFO ] 2021-12-22 03:00:30,980 main Binary Tree Sort  - Array of ints before: [77, 53, 23, 80, 20]
+FILE [INFO ] 2021-12-22 03:03:20,687 main Binary Tree Sort  - Array of ints before: [17, 41, 26, 60, 95]
+FILE [INFO ] 2021-12-22 03:04:27,272 main Binary Tree Sort  - Array of ints before: [73, 42, 54, 67, 11]
+FILE [INFO ] 2021-12-22 03:07:00,434 main Binary Tree Sort  - Array of ints before: [16, 48, 42, 55, 8]
+FILE [INFO ] 2021-12-22 03:09:31,982 main Binary Tree Sort  - Array of ints before: [82, 17, 76, 2, 59]
+FILE [INFO ] 2021-12-22 03:09:52,860 main Binary Tree Sort  - Array of ints before: [74, 72, 96, 76, 59]
+FILE [INFO ] 2021-12-22 03:11:27,106 main Binary Tree Sort  - Array of ints before: [98, 35, 16, 6, 93]
+FILE [INFO ] 2021-12-22 03:12:00,686 main Binary Tree Sort  - Array of ints before: [80, 6, 10, 93, 97]
+FILE [INFO ] 2021-12-22 03:13:02,171 main Binary Tree Sort  - Array of ints before: [43, 86, 55, 34, 50]
+FILE [INFO ] 2021-12-22 03:36:02,306 main Bubblesort - ArrayList<Integer> before: [74, 93, 11]
+FILE [INFO ] 2021-12-22 03:36:02,344 main Bubblesort - ArrayList<Integer> sorted: [11, 74, 93]
+FILE [INFO ] 2021-12-22 03:36:02,352 main Bubblesort -  Time take in nanoseconds:119382900
+FILE [INFO ] 2021-12-22 03:36:02,388 main My Sparta App - This is an info message:QuickSort Int Array completed in 1.193829E8 nanoseconds
+FILE [INFO ] 2021-12-22 03:36:02,442 main  Quicksort  - ArrayList<Integer> before: [74, 93, 11]
+FILE [INFO ] 2021-12-22 03:36:02,442 main  Quicksort  - ArrayList<Integer> sorted: [11, 74, 93]
+FILE [INFO ] 2021-12-22 03:36:02,442 main  Quicksort  - Time take in nanoseconds:2471500
+FILE [INFO ] 2021-12-22 03:36:02,442 main My Sparta App - This is an info message:QuickSort Int ArrayList completed in 2471500.0 nanoseconds
+FILE [INFO ] 2021-12-22 03:36:02,450 main  Quicksort  - Array of ints before: [38, 614, 83]
+FILE [INFO ] 2021-12-22 03:36:02,460 main  Quicksort  - Array of ints sorted: [38, 83, 614]Time take in nanoseconds: 1446700
+FILE [INFO ] 2021-12-22 03:36:02,460 main My Sparta App - This is an info message: QuickSort Int Array  completed in 1446700.0 nanoseconds
+FILE [INFO ] 2021-12-22 03:36:02,468 main Bubblesort - Array of ints before: [38, 614, 83]
+FILE [INFO ] 2021-12-22 03:36:02,468 main Bubblesort - Array of ints sorted: [38, 83, 614] Time take in nanoseconds :1488300
+FILE [INFO ] 2021-12-22 03:36:02,472 main My Sparta App - This is an info message: QuickSort Int Array  completed in 1488300.0 nanoseconds
+FILE [INFO ] 2021-12-22 03:36:02,472 main Bubblesort - [38, 83, 614]

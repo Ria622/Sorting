@@ -2,10 +2,10 @@ package com.sparta.controller;
 
 import java.util.ArrayList;
 
-public interface Sorting {
+public interface Sorting<T extends Comparable<? super T>> {
 
-    public int[] sort(int[] arr);
+    public int[] sorta(int[] arr);
     public ArrayList<Integer> sort(ArrayList<Integer> ar);
-    //public List<T> sort(List<T> a);
-    //public ArrayList<String> sort(ArrayList<String> a);
+    public T[] sortb(T[] array);
+
 }

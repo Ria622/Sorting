@@ -8,12 +8,12 @@ public class Logger1 {
     private static Logger logger = LogManager.getLogger("My Sparta App"); // LoggingDemo.getClass().getName()
 
     public void logSortTime(String a, double b) {
-        logger.info("This is an info message:" + a + " completed in " + b);
+        logger.info("This is an info message:" + a + " completed in " + b + " nanoseconds");
         //a will be the sort name
         // And b will be how long it has taken to complete that task
     }
 
-    public void logError() {
-        logger.warn("Error message");
+    public void logError(String otherInfo) {
+        logger.warn("Error message" + otherInfo);
     }
 }

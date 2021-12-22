@@ -10,7 +10,7 @@ import java.util.List;
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class BubbleTest {
+public class BubbleTest <T extends Comparable<? super T>> {
 
     /*@Test
     public void TestForFiveInts(){
@@ -20,13 +20,22 @@ public class BubbleTest {
         assertEquals(intArray, actual);
     }
 
+
+
+    @BeforeEach
+    public static void init() {
+        QuickSort q = new QuickSort();
+        Bubblesort b = new Bubblesort();
+        BinaryTreeSort bts = new BinaryTreeSort();
+    }
+
      */
 
     @Test
     public void TestForThreeIntsQuicksort(){
         int[] intArr = {38,614,83};
         QuickSort q = new QuickSort();
-        q.sort(intArr);
+        q.sorta(intArr);
         int[] actual = {38,83,614};
         //assertEquals(Arrays.toString(intArr), Arrays.toString(actual));
         assertArrayEquals(intArr, actual);
@@ -36,12 +45,14 @@ public class BubbleTest {
     @Test
     public void TestForThreeIntsBubble(){
         int[] intArr = {38,614,83};
+        //Bubblesort<Comparable<T>> b = new Bubblesort<Comparable<T>>();
         Bubblesort b = new Bubblesort();
-        b.sort(intArr);
+        b.sorta(intArr);
         int[] actual = {38,83,614};
         //assertEquals(Arrays.toString(intArr), Arrays.toString(actual));
         assertArrayEquals(intArr, actual);
     }
+
 
     @Test
     public void TestForArrayListThree(){
@@ -64,8 +75,9 @@ public class BubbleTest {
 
          */
         ArrayList<Integer> a = new ArrayList<>(List.of(74,93,11));
-        Bubblesort bs = new Bubblesort();
-        ArrayList<Integer> actual = bs.sort((ArrayList<Integer>) a);
+        //Bubblesort<Comparable<T>> bs = new Bubblesort<Comparable<T>>();
+        Bubblesort b = new Bubblesort();
+        ArrayList<Integer> actual = b.sort((ArrayList<Integer>) a);
         System.out.println(actual);
         ArrayList<Integer> expected = new ArrayList<>(List.of(11,74,93));
         assertEquals(expected, actual );
